@@ -41,5 +41,6 @@ public class TestBST {
             System.out.print(path.get(i).element + " ");
         }
         System.out.println();
+
     }
 }
